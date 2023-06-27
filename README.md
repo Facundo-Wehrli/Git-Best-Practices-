@@ -111,9 +111,10 @@ __Example 3__ (description as plain text)
 ```
 
 ## Contributing to projects ##
-link : [https://docs.github.com/en/get-started/quickstart/contributing-to-projects]
+link : https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
 ## Best practices ##
-link : [https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/]
+link : https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/
 
 ## Git Cheat Sheet ##
+link : https://training.github.com/downloads/github-git-cheat-sheet/
